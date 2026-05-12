@@ -1,3 +1,13 @@
+import img5 from "../assets/img5.jpeg"
+import img9 from "../assets/img9.jpeg"
+import img26 from "../assets/img26.jpeg"
+import img29 from "../assets/img29.jpeg"
+import img31 from "../assets/img31.jpeg"
+import img28 from "../assets/img28.jpeg"
+import img4 from "../assets/img4.jpeg"
+import img3 from "../assets/img3.jpeg"
+import img2 from "../assets/img2.jpeg"
+
 function Collection() {
 
   const Cart = [
@@ -5,55 +15,55 @@ function Collection() {
       id: 1,
       nom: 'Robe',
       stock: 20,
-      image: '/src/assets/img5.jpeg'
+      image: img5
     },
     {
       id: 2,
       nom: 'Robe',
       stock: 20,
-      image: '/src/assets/img9.jpeg'
+      image:img9
     },
     {
       id: 3,
       nom: 'Robe',
       stock: 20,
-      image: '/src/assets/img26.jpeg'
+      image: img26
     },
     {
       id: 4,
       nom: 'Pentalon',
       stock: 15,
-      image: '/src/assets/img29.jpeg'
+      image:img29
     },
      {
       id: 5,
       nom: 'Pentalon',
       stock: 15,
-      image: '/src/assets/img31.jpeg'
+      image: img31
     },
      {
       id: 6,
       nom: 'Pentalon',
       stock: 15,
-      image: '/src/assets/img28.jpeg'
+      image: img28
     },
     {
       id: 7,
       nom: 'Veste Complet',
       stock: 30,
-      image: '/src/assets/img4.jpeg'
+      image: img4
     },
     {
       id: 8,
       nom: 'Veste Complet',
       stock: 30,
-      image: '/src/assets/img3.jpeg'
+      image: img3
     },
     {
       id: 9,
       nom: 'Veste Complet',
       stock: 30,
-      image: '/src/assets/img2.jpeg'
+      image: img2
     }
   ]
 

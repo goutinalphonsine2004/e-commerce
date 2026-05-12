@@ -49,15 +49,15 @@ function Pieces() {
       const article = [
             {
             id: 1,
-            image:'/src/assets/img20.jpeg'
+            image:img20
       },
       {
             id: 2,
-            image:'/src/assets/img13.jpeg'
+            image:img13
       },
       {
             id: 3,
-            image:'/src/assets/img23.jpeg'
+            image:img7
       }
 ] 
 
